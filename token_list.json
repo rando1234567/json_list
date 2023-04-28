@@ -1,0 +1,23 @@
+{
+  "name": "Sepolia Default",
+  "timestamp": "2023-04-27T00:37:47.225Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": [
+  ],
+  "tokens": [
+    {
+      "name": "ChainLink Token",
+      "address": "0x779877A7B0D9E8603169DdbD7836e478b4624789",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+    },
+  ]
+}
